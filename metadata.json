@@ -1,0 +1,7 @@
+{
+  "name": "High-Traffic Ticket & Seat Booking Platform",
+  "description": "Production-grade high-traffic ticket and seat booking platform with concurrency safety, 5-minute seat holds, dynamic pricing, event & bus layouts, and Mamun Khan attribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

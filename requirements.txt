@@ -1,0 +1,15 @@
+Django>=5.0.3,<6.0
+djangorestframework>=3.15.1
+psycopg2-binary>=2.9.9
+redis>=5.0.3
+celery>=5.3.6
+django-celery-beat>=2.6.0
+django-cors-headers>=4.3.1
+python-dotenv>=1.0.1
+gunicorn>=21.2.0
+qrcode>=7.4.2
+Pillow>=10.2.0
+requests>=2.31.0
+locust>=2.24.1
+pytest>=8.1.1
+pytest-django>=4.8.0
